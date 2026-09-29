@@ -1,0 +1,10 @@
+title: Amsterdam · 9.–11. Oktober 2026
+description: Ein Brüderwochenende
+lang: de
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+exclude:
+  - README.md
