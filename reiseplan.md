@@ -48,7 +48,7 @@ permalink: /
 | 19.30 | [Café Loetje](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Loetje%2C+Johannes+Vermeerstraat+52%2C+Amsterdam) | Abendessen · Steak mit Pommes · 5 Min. zu Fuss | **[Reservieren](https://www.loetje.nl/en/locations/)** |
 | 21.30 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · Tram 2 oder 12 | **[Reservieren](https://www.finddoor74.com/)** |
 | 23.30 | [Café De Duivel](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+De+Duivel%2C+Reguliersdwarsstraat+87%2C+Amsterdam) | Hip-Hop-Bar · 2 Min. zu Fuss | |
-| 1.00 | [Shelter](https://www.google.com/maps/search/?api=1&query=Shelter%2C+Overhoeksplein+3%2C+Amsterdam) | Club im Keller des A'DAM Toren · bis 6.00 · Gratisfähre hinter Centraal oder Uber | **[Tickets](https://web.fourvenues.com/en/shelter-amsterdam)** |
+| 1.00 | [Shelter](https://www.google.com/maps/search/?api=1&query=Shelter%2C+Overhoeksplein+3%2C+Amsterdam) | Club im Keller des A'DAM Toren · Entasia b2b Freddi u. a. · 23.00–6.00 · Gratisfähre hinter Centraal oder Uber | **[Tickets](https://web.fourvenues.com/en/shelter-amsterdam)** |
 
 ## Sonntag, 11. Oktober
 
@@ -104,7 +104,7 @@ permalink: /
 
 | Wetter | Oktober |
 |---|---|
-| Temperatur | ca. 10–15 °C, oft Regen |
+| Temperatur | ca. 7–14 °C, windig, oft Schauer |
 | Dunkel ab | ca. 19.00 |
 
 <sub>Bilder: Wikimedia Commons · Gracht © MarcusObal, CC BY-SA 3.0 · Prinsengracht © Cristalmoon 27, CC BY-SA 4.0 · Café 't Mandje © Paul2, CC BY-SA 4.0</sub>
