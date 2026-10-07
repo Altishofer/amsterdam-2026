@@ -12,7 +12,7 @@ permalink: /
   </div>
 </div>
 
-<p class="tagline">Grachten · Bars · Coffeeshops · Boot</p>
+<p class="tagline">Grachten · Kneipen · Coffeeshops</p>
 
 ## Freitag, 9. Oktober
 
@@ -28,13 +28,18 @@ permalink: /
 | 17.45 | [Café de Klos](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Klos%2C+Kerkstraat+41%2C+Amsterdam) | Spareribs vom Grill · 15 Min. zu Fuss · Fr ab 14.00, bis 23.00 · keine Reservierung, Wartebar gegenüber · falls voll: [Piet de Leeuw](https://www.google.com/maps/search/?api=1&query=Piet+de+Leeuw%2C+Noorderstraat+11%2C+Amsterdam) (Steakhaus seit 1949, 8 Min.) | **[Plan B reservieren](https://www.pietdeleeuw.nl/)** |
 | 19.15 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Coffeeshop · am Rand der Negen Straatjes (neun kleine Läden-Gassen zwischen den Grachten) · 12 Min. zu Fuss · hell, viel Platz · bis 1.00 · falls voll: [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) (3 Min.) | |
 | 20.30 | [Café de Dokter](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Dokter%2C+Rozenboomsteeg+4%2C+Amsterdam) | Kleinste Kneipe der Stadt, seit 1798 · 2 Min. zu Fuss · jenever (Wacholderschnaps), Räucherwurst · bis 1.00 · falls voll: [Café Hoppe](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Hoppe%2C+Spui+18%2C+Amsterdam) (1 Min., gross, bis 2.00) | |
-| 22.00 | [Café Eijlders](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam) | Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) · 10 Min. zu Fuss · bis 2.00 · falls voll: [Café de Pieper](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Pieper%2C+Prinsengracht+424%2C+Amsterdam) (Grachtenkneipe von 1665, 3 Min., bis 2.00) | |
-| 23.45 | [Flying Dutchmen Cocktails](https://www.google.com/maps/search/?api=1&query=Flying+Dutchmen+Cocktails%2C+Singel+460%2C+Amsterdam) | Cocktailbar im Grachtenhaus von 1662 · 10 Min. zu Fuss · bis 4.00 · falls voll: [Pulitzer's Bar](https://www.google.com/maps/search/?api=1&query=Pulitzer%27s+Bar%2C+Keizersgracht+234%2C+Amsterdam) (Hotelbar, 8 Min.) | ohne |
-| danach | [FEBO](https://www.google.com/maps/search/?api=1&query=FEBO%2C+Leidsestraat+94%2C+Amsterdam) | Snackautomat: Kroketten, frikandel (Wurst) · 5 Min. zu Fuss · zum Hotel 15 Min. · bis 4.00 | |
+| ab 22.00 | Nach Laune | eine der vier Karten unten, alle in 10 Min. erreichbar | |
+
+<div class="pool">
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam"><img src="img/eijlders.jpg" alt="Café Eijlders"><div class="body"><h4>Café Eijlders</h4><p>Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) seit 1940, Künstlertreff mit Bildern an den Wänden.</p><p class="meta">10 Min. · bis 2.00</p></div></a>
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=Flying+Dutchmen+Cocktails%2C+Singel+460%2C+Amsterdam"><div class="noimg">Flying</div><div class="body"><h4>Flying Dutchmen Cocktails</h4><p>Cocktailbar im Grachtenhaus von 1662, Drinks mit Jenever (Wacholderschnaps) und Rum, kein Tisch nötig.</p><p class="meta">10 Min. · bis 4.00</p></div></a>
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Pieper%2C+Prinsengracht+424%2C+Amsterdam"><div class="noimg">Café</div><div class="body"><h4>Café de Pieper</h4><p>Grachtenkneipe von 1665 mit schiefem Boden und niedriger Decke, Kerzen auf dem Tresen.</p><p class="meta">8 Min. · bis 2.00</p></div></a>
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=FEBO%2C+Leidsestraat+94%2C+Amsterdam"><img src="img/febo.jpg" alt="FEBO"><div class="body"><h4>FEBO</h4><p>Snackautomat: Kroketten und frikandel (frittierte Wurst) aus der Klappe, Amsterdamer Nachtritual.</p><p class="meta">10 Min. · bis 4.00 · zum Hotel 15 Min.</p></div></a>
+</div>
 
 ## Samstag, 10. Oktober
 
-<p class="kicker">Coffeeshops, Rotlicht-Tour und Boot</p>
+<p class="kicker">Coffeeshops und Rotlicht-Tour</p>
 
 <img class="hero" src="img/prinsengracht.jpg" alt="Prinsengracht mit Westerkerk">
 
@@ -48,10 +53,16 @@ permalink: /
 | 14.50 | [Amnesia](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Amnesia%2C+Herengracht+133%2C+Amsterdam) | Coffeeshop · 10 Min. zu Fuss · Lounge an der Gracht, ruhig | |
 | 15.55 | [Dam, Nationaldenkmal](https://www.google.com/maps/search/?api=1&query=Nationaal+Monument%2C+Dam%2C+Amsterdam) | Treffpunkt Red-Light-District-Tour · 8 Min. zu Fuss, Abmarsch 15.40 · Guide mit rotem Namensschild | gebucht |
 | 16.00 | Red-Light-District-Tour | Kleingruppe, Englisch · 1,5 Std. · Ende [Nieuwmarkt](https://www.google.com/maps/search/?api=1&query=Nieuwmarkt%2C+Amsterdam) · keine Fotos, kein Alkohol, nichts rauchen | |
-| 18.15 | [Smokeboat](https://www.google.com/maps/search/?api=1&query=Prins+Hendrikkade+33a%2C+Amsterdam) | Raucherboot, Linienfahrt · 1 Std. · Steg vor dem Hotel Victorie · 8 Min. zu Fuss ab Nieuwmarkt, um 18.00 am Steg · Grachten beleuchtet | **[Buchen](https://fareharbor.com/embeds/book/smokeboat/items/681498/calendar/2026/10/?full-items=yes)** |
-| 19.30 | [Loetje Centraal](https://www.google.com/maps/search/?api=1&query=Loetje+Centraal%2C+Stationsplein+10%2C+Amsterdam) | Abendessen · Steak mit Pommes · gegenüber Centraal im alten Zuid-Hollandsch Koffiehuis · 3 Min. zu Fuss · bis 22.30 | **[Reservieren](https://www.loetje.nl/en/locations/)** |
-| 21.30 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · 25 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
-| 23.30 | [Café Hoppe](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Hoppe%2C+Spui+18%2C+Amsterdam) | Braune Kneipe seit 1670 · 5 Min. zu Fuss · jenever (Wacholderschnaps) · bis 2.00 · zum Hotel 20 Min. · falls voll: [Café Schiller](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Schiller%2C+Rembrandtplein+24%2C+Amsterdam) (Art déco, 3 Min., bis 2.00) | |
+| 18.00 | [Loetje Centraal](https://www.google.com/maps/search/?api=1&query=Loetje+Centraal%2C+Stationsplein+10%2C+Amsterdam) | Abendessen · Steak mit Pommes · gegenüber Centraal im alten Zuid-Hollandsch Koffiehuis · 10 Min. zu Fuss ab Nieuwmarkt · bis 22.30 | **[Reservieren](https://www.loetje.nl/en/locations/)** |
+| 20.00 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · 25 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
+| ab 21.30 | Nach Laune | eine der vier Karten unten, alle in 5 Min. erreichbar | |
+
+<div class="pool">
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Hoppe%2C+Spui+18%2C+Amsterdam"><img src="img/hoppe.jpg" alt="Café Hoppe"><div class="body"><h4>Café Hoppe</h4><p>Braune Kneipe seit 1670 am Spui, Jenever aus dem Fass, Sägemehl am Boden, abends steht man bis auf die Strasse.</p><p class="meta">5 Min. · bis 2.00 · zum Hotel 20 Min.</p></div></a>
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Schiller%2C+Rembrandtplein+24%2C+Amsterdam"><img src="img/schiller.jpg" alt="Café Schiller"><div class="body"><h4>Café Schiller</h4><p>Art-déco-Café von 1912 am Rembrandtplein, Gemälde des Hausmalers Frits Schiller, Marmor und Spiegel.</p><p class="meta">3 Min. · bis 2.00</p></div></a>
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam"><img src="img/dampkring.jpg" alt="Dampkring"><div class="body"><h4>Dampkring</h4><p>Letzter Joint unter der geschnitzten Holzdecke, Drehort von Ocean's Twelve.</p><p class="meta">5 Min. · bis 1.00</p></div></a>
+  <a class="card" href="https://www.google.com/maps/search/?api=1&query=Flying+Dutchmen+Cocktails%2C+Singel+460%2C+Amsterdam"><div class="noimg">Flying</div><div class="body"><h4>Flying Dutchmen Cocktails</h4><p>Falls am Freitag nicht geschafft: Cocktailbar im Grachtenhaus von 1662.</p><p class="meta">5 Min. · bis 4.00</p></div></a>
+</div>
 
 ## Sonntag, 11. Oktober
 
@@ -91,11 +102,11 @@ permalink: /
 |---|---|
 | Coffeeshops | ab 18, Ausweis mitnehmen · max. 5 g pro Einkauf · kein Alkohol · drinnen kein Tabak |
 | Bezahlen | manche nur bar, manche nur Karte · beides mitnehmen |
-| Boot | Linienboot fährt täglich 13–21 ab zwei Stegen ([Prins Hendrikkade](https://www.google.com/maps/search/?api=1&query=Prins+Hendrikkade+33a%2C+Amsterdam), [Kloveniersburgwal](https://www.google.com/maps/search/?api=1&query=Kloveniersburgwal+62%2C+Amsterdam)) · 15 Min. vor Abfahrt am Steg · drinnen kein Tabak, Tabakersatz an Bord, Tabakjoints an Deck · Gras vorher im Coffeeshop kaufen · ab 18 |
+| Boot, spontan | [Smokeboat](https://www.google.com/maps/search/?api=1&query=Kloveniersburgwal+62%2C+Amsterdam): Raucherboot, 1 Std., täglich 13–21 ab Kloveniersburgwal 62 beim Nieuwmarkt oder Prins Hendrikkade 33a · [online buchen](https://fareharbor.com/embeds/book/smokeboat/items/calendar/) · drinnen kein Tabak |
 | Tour | Ticket auf dem Handy (GetYourGuide-App) · 5 Min. vor 16.00 am Denkmal · keine Kameras |
 | Strasse | Kiffen verboten im Rotlichtviertel, am Dam, Damrak und Nieuwmarkt |
 | Door 74 | nur mit Reservierung |
-| Falls voll | Jeder Ort ohne Reservierung hat in der Spalte Info einen Ersatz in Gehdistanz |
+| Falls voll | Jeder Ort ohne Reservierung hat in der Spalte Info einen Ersatz in Gehdistanz · abends gilt der Kartenpool |
 | Unterwegs | alles zu Fuss, längste Strecke 25 Min. · Reserve Tram 2 und 12 (Museumplein ↔ Dam ↔ Centraal) |
 
 ## Hotel
@@ -113,4 +124,4 @@ permalink: /
 | Temperatur | ca. 7–14 °C, windig, oft Schauer |
 | Dunkel ab | ca. 19.00 |
 
-<sub>Bilder: Wikimedia Commons · Gracht © MarcusObal, CC BY-SA 3.0 · Prinsengracht © Cristalmoon 27, CC BY-SA 4.0 · Café 't Mandje © Paul2, CC BY-SA 4.0</sub>
+<sub>Bilder: Wikimedia Commons · Gracht © MarcusObal, CC BY-SA 3.0 · Prinsengracht © Cristalmoon 27, CC BY-SA 4.0 · Café 't Mandje, Eijlders, Hoppe, Schiller © Paul2, CC BY-SA 4.0 · FEBO © Donald Trung Quoc Don, CC BY-SA 4.0 · Dampkring © The Drug Users Bible, CC BY 2.0</sub>
