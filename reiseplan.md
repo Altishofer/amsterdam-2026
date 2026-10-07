@@ -45,8 +45,8 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 9.45 | [Bakers & Roasters](https://www.google.com/maps/search/?api=1&query=Bakers+%26+Roasters%2C+Eerste+Jacob+van+Campenstraat+54%2C+Amsterdam) | Brunch · De Pijp · 15 Min. zu Fuss · Warteliste vor Ort · falls voll: [CT Coffee & Coconuts](https://www.google.com/maps/search/?api=1&query=CT+Coffee+%26+Coconuts%2C+Ceintuurbaan+282%2C+Amsterdam) (altes Kino, drei Stockwerke, 5 Min.) | |
-| 11.15 | [Albert Cuypmarkt](https://www.google.com/maps/search/?api=1&query=Albert+Cuypmarkt%2C+Albert+Cuypstraat%2C+Amsterdam) | Strassenmarkt · 3 Min. zu Fuss · Stroopwafel, Hering, kibbeling (frittierter Fisch) | |
+| 9.45 | [CT Coffee & Coconuts](https://www.google.com/maps/search/?api=1&query=CT+Coffee+%26+Coconuts%2C+Ceintuurbaan+282%2C+Amsterdam) | Brunch im alten Art-déco-Kino, drei Stockwerke · De Pijp · 15 Min. zu Fuss · Brunchkarte bis 13.00 · falls voll: [Bakers & Roasters](https://www.google.com/maps/search/?api=1&query=Bakers+%26+Roasters%2C+Eerste+Jacob+van+Campenstraat+54%2C+Amsterdam) (5 Min., online auf die Warteliste) | |
+| 11.15 | [Albert Cuypmarkt](https://www.google.com/maps/search/?api=1&query=Albert+Cuypmarkt%2C+Albert+Cuypstraat%2C+Amsterdam) | Strassenmarkt · 5 Min. zu Fuss · Stroopwafel, Hering, kibbeling (frittierter Fisch) | |
 | 12.00 | [Katsu](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Katsu%2C+Eerste+van+der+Helststraat+70%2C+Amsterdam) | Coffeeshop · am Markt · Holz, Pflanzen, Quartierpublikum | |
 | 13.00 | [Boerejongens Centrum](https://www.google.com/maps/search/?api=1&query=Boerejongens+Centrum%2C+Utrechtsestraat+21%2C+Amsterdam) | Coffeeshop · 20 Min. zu Fuss · Apothekenstil, Verkäufer in Weste | |
 | 14.00 | [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) | Coffeeshop · 12 Min. zu Fuss · geschnitzte Holzdecke, Drehort von Ocean's Twelve | |
