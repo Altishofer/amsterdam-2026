@@ -22,10 +22,12 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 18.00 | Flughafen Zürich | Abflug 19.25 · KL1926 | |
-| 21.00 | Ankunft Schiphol | Bus 397 → [Anreise](#anreise) | |
-| 22.00 | [Hotel Van Gogh](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Van de Veldestraat 5 · Check-in bis 23.30 | |
-| 22.30 | [Café Eijlders](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam) | Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) · Korte Leidsedwarsstraat 47 · 10 Min. zu Fuss · bis 2.00 | |
+| 12.45 | Flughafen Zürich | Abflug 14.20 · KL1922 | |
+| 15.55 | Ankunft Schiphol | Bus 397 → [Anreise](#anreise) | |
+| 17.00 | [Hotel Van Gogh](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Van de Veldestraat 5 · Check-in bis 23.30 | |
+| 17.45 | [Café de Klos](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Klos%2C+Kerkstraat+41%2C+Amsterdam) | Spareribs vom Grill · Kerkstraat 41 · 12 Min. zu Fuss · Fr ab 14.00, bis 23.00 · keine Reservierung, Wartebar gegenüber | |
+| 19.30 | [Brouwerij 't IJ](https://www.google.com/maps/search/?api=1&query=Brouwerij+%27t+IJ%2C+Funenkade+7%2C+Amsterdam) | Brauerei unter der Windmühle De Gooyer · Funenkade 7 · Tram 7 ab Leidseplein → Hoogte Kadijk · bis 22.00 | |
+| 22.00 | [Café Eijlders](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam) | Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) · Korte Leidsedwarsstraat 47 · Tram 7 → Leidseplein · bis 2.00 | |
 | 23.45 | [Flying Dutchmen Cocktails](https://www.google.com/maps/search/?api=1&query=Flying+Dutchmen+Cocktails%2C+Singel+460%2C+Amsterdam) | Cocktailbar im Grachtenhaus von 1662 · Singel 460 · bis 4.00 | ohne |
 | 1.30 | [Café De Duivel](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+De+Duivel%2C+Reguliersdwarsstraat+87%2C+Amsterdam) | Hip-Hop-Bar · Reguliersdwarsstraat 87 · bis 4.00 | |
 | danach | [FEBO](https://www.google.com/maps/search/?api=1&query=FEBO%2C+Leidsestraat+94%2C+Amsterdam) | Snackautomat: Kroketten, frikandel (Wurst) · Leidsestraat 94 · bis 4.00 | |
@@ -68,8 +70,8 @@ permalink: /
 
 | Ab | Verbindung | Info |
 |---|---|---|
-| ca. 21.20 | Bus 397 → Museumplein | Schiphol Plaza, Steig B17 · ca. 30 Min. · alle 8–15 Min. |
-| ca. 21.50 | zu Fuss → Hotel | 5 Min. |
+| ca. 16.20 | Bus 397 → Museumplein | Schiphol Plaza, Steig B17 · ca. 30 Min. · alle 8–15 Min. |
+| ca. 16.50 | zu Fuss → Hotel | 5 Min. |
 
 **Sonntag · Hotel → Schiphol** · [Route](https://www.google.com/maps/dir/?api=1&origin=Van+de+Veldestraat+5%2C+Amsterdam&destination=Schiphol+Plaza&travelmode=transit)
 
