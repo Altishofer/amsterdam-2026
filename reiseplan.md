@@ -47,10 +47,10 @@ permalink: /
 | 14.50 | [Amnesia](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Amnesia%2C+Herengracht+133%2C+Amsterdam) | Coffeeshop · Herengracht 133 · 10 Min. zu Fuss · Lounge an der Gracht, ruhig | |
 | 15.55 | [Dam, Nationaldenkmal](https://www.google.com/maps/search/?api=1&query=Nationaal+Monument%2C+Dam%2C+Amsterdam) | Treffpunkt Red-Light-District-Tour · 8 Min. zu Fuss, Abmarsch 15.40 · Guide mit rotem Namensschild | gebucht |
 | 16.00 | Red-Light-District-Tour | Kleingruppe, Englisch · 1,5 Std. · Ende Nieuwmarkt · keine Fotos, kein Alkohol, nichts rauchen | |
-| 18.00 | [Private Smoke Boat](https://www.google.com/maps/search/?api=1&query=Private+Smoke+Boat%2C+Oosterdokskade+8%2C+Amsterdam) | Privatboot mit Skipper · 2 Std. · Oosterdokskade 8 · 10 Min. zu Fuss ab Nieuwmarkt · Grachten beleuchtet | **[Buchen](https://smoke-friendly-boat.amsterdam/book/)** |
-| 20.15 | [Loetje Centraal](https://www.google.com/maps/search/?api=1&query=Loetje+Centraal%2C+Stationsplein+10%2C+Amsterdam) | Abendessen · Steak mit Pommes · Stationsplein 10, im alten Zuid-Hollandsch Koffiehuis · 5 Min. zu Fuss · bis 22.30 | **[Reservieren](https://www.loetje.nl/en/locations/)** |
-| 22.00 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · 25 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
-| 23.45 | [Café Hoppe](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Hoppe%2C+Spui+18%2C+Amsterdam) | Braune Kneipe seit 1670 · Spui 18 · 5 Min. zu Fuss · jenever (Wacholderschnaps) · bis 2.00 · zum Hotel 20 Min. | |
+| 18.15 | [Smokeboat](https://www.google.com/maps/search/?api=1&query=Prins+Hendrikkade+33a%2C+Amsterdam) | Raucherboot, Linienfahrt · 1 Std. · Steg Prins Hendrikkade 33a vor dem Hotel Victorie · 8 Min. zu Fuss ab Nieuwmarkt, um 18.00 am Steg · Grachten beleuchtet | **[Buchen](https://fareharbor.com/embeds/book/smokeboat/items/681498/calendar/2026/10/?full-items=yes)** |
+| 19.30 | [Loetje Centraal](https://www.google.com/maps/search/?api=1&query=Loetje+Centraal%2C+Stationsplein+10%2C+Amsterdam) | Abendessen · Steak mit Pommes · Stationsplein 10, im alten Zuid-Hollandsch Koffiehuis · 3 Min. zu Fuss · bis 22.30 | **[Reservieren](https://www.loetje.nl/en/locations/)** |
+| 21.30 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · 25 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
+| 23.30 | [Café Hoppe](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Hoppe%2C+Spui+18%2C+Amsterdam) | Braune Kneipe seit 1670 · Spui 18 · 5 Min. zu Fuss · jenever (Wacholderschnaps) · bis 2.00 · zum Hotel 20 Min. | |
 
 ## Sonntag, 11. Oktober
 
@@ -90,7 +90,7 @@ permalink: /
 |---|---|
 | Coffeeshops | ab 18, Ausweis mitnehmen · max. 5 g pro Einkauf · kein Alkohol · drinnen kein Tabak |
 | Bezahlen | manche nur bar, manche nur Karte · beides mitnehmen |
-| Boot | Rauchen nur an Deck, nicht in der Kabine · Gras vorher im Coffeeshop kaufen |
+| Boot | Linienboot fährt täglich 13–21 ab zwei Stegen (Prins Hendrikkade 33a, Kloveniersburgwal 62) · 15 Min. vor Abfahrt am Steg · drinnen kein Tabak, Tabakersatz an Bord, Tabakjoints an Deck · Gras vorher im Coffeeshop kaufen · ab 18 |
 | Tour | Ticket auf dem Handy (GetYourGuide-App) · 5 Min. vor 16.00 am Denkmal · keine Kameras |
 | Strasse | Kiffen verboten im Rotlichtviertel, am Dam, Damrak und Nieuwmarkt |
 | Door 74 | nur mit Reservierung |
