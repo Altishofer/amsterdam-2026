@@ -16,7 +16,7 @@ permalink: /
 
 ## Freitag, 9. Oktober
 
-<p class="kicker">Ankommen und los</p>
+<p class="kicker">Ankommen, essen, Coffeeshop, Kneipe</p>
 
 <img class="hero" src="img/bar.jpg" alt="Braune Kneipe in Amsterdam">
 
@@ -26,8 +26,9 @@ permalink: /
 | 15.55 | Ankunft Schiphol | Bus 397 → [Anreise](#anreise) | |
 | 17.00 | [Hotel Van Gogh](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Van de Veldestraat 5 · Check-in bis 23.30 | |
 | 17.45 | [Café de Klos](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Klos%2C+Kerkstraat+41%2C+Amsterdam) | Spareribs vom Grill · Kerkstraat 41 · 15 Min. zu Fuss · Fr ab 14.00, bis 23.00 · keine Reservierung, Wartebar gegenüber | |
-| 19.30 | [Brouwerij Troost](https://www.google.com/maps/search/?api=1&query=Brouwerij+Troost+De+Pijp%2C+Cornelis+Troostplein+21%2C+Amsterdam) | Brauerei mit eigenem Bier · Cornelis Troostplein 21 · 20 Min. zu Fuss · bis 2.00 | |
-| 22.00 | [Café Eijlders](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam) | Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) · Korte Leidsedwarsstraat 47 · 20 Min. zu Fuss · bis 2.00 | |
+| 19.15 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Coffeeshop · Rosmarijnsteeg 9, am Rand der Negen Straatjes (neun kleine Läden-Gassen zwischen den Grachten) · 12 Min. zu Fuss · hell, viel Platz · bis 1.00 | |
+| 20.30 | [Café de Dokter](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Dokter%2C+Rozenboomsteeg+4%2C+Amsterdam) | Kleinste Kneipe der Stadt, seit 1798 · Rozenboomsteeg 4 · 2 Min. zu Fuss · jenever (Wacholderschnaps), Räucherwurst · bis 1.00 | |
+| 22.00 | [Café Eijlders](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam) | Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) · Korte Leidsedwarsstraat 47 · 10 Min. zu Fuss · bis 2.00 | |
 | 23.45 | [Flying Dutchmen Cocktails](https://www.google.com/maps/search/?api=1&query=Flying+Dutchmen+Cocktails%2C+Singel+460%2C+Amsterdam) | Cocktailbar im Grachtenhaus von 1662 · Singel 460 · 10 Min. zu Fuss · bis 4.00 | ohne |
 | danach | [FEBO](https://www.google.com/maps/search/?api=1&query=FEBO%2C+Leidsestraat+94%2C+Amsterdam) | Snackautomat: Kroketten, frikandel (Wurst) · Leidsestraat 94 · 5 Min. zu Fuss · zum Hotel 15 Min. · bis 4.00 | |
 
