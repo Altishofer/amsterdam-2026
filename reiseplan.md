@@ -22,8 +22,8 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 12.45 | [Flughafen Zürich](https://www.google.com/maps/search/?api=1&query=Flughafen+Z%C3%BCrich) | Abflug 14.20 · KL1922 | |
-| 15.55 | [Ankunft Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | Bus 397 → [Anreise](#anreise) | |
+| 12.45 | [Flughafen Zürich](https://www.google.com/maps/search/?api=1&query=Flughafen+Z%C3%BCrich) | am Flughafen · Boarding ca. 13.45 · Abflug 14.20 · KL1922 | |
+| 15.55 | [Ankunft Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | Landung · Bus 397 → [Anreise](#anreise) | |
 | 17.00 | [Hotel Van Gogh](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Museumplein · Check-in bis 23.30 | |
 | 17.45 | [Piet de Leeuw](https://www.google.com/maps/search/?api=1&query=Piet+de+Leeuw%2C+Noorderstraat+11%2C+Amsterdam) | Steakhaus seit 1949 · Holzböden, Buntglas, Ölbilder an der Decke · 15 Min. zu Fuss · bis 22.00 | **[Reservieren](https://www.pietdeleeuw.nl/)** |
 | 19.30 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Coffeeshop · am Rand der Negen Straatjes (neun kleine Läden-Gassen zwischen den Grachten) · 10 Min. zu Fuss · hell, viel Platz · bis 1.00 · falls voll: [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) (3 Min.) | |
@@ -73,8 +73,9 @@ permalink: /
 | 9.30 | [Brasserie De Joffers](https://www.google.com/maps/search/?api=1&query=Brasserie+De+Joffers%2C+Willemsparkweg+163%2C+Amsterdam) | Frühstück · 8 Min. zu Fuss | **[Reservieren](https://brasseriedejoffers.nl/en/reservations/)** |
 | 11.00 | [Check-out](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Gepäck an der Rezeption lassen | |
 | 12.15 | [Bus 397 ab Museumplein](https://www.google.com/maps/search/?api=1&query=Bushalte+Museumplein%2C+Amsterdam) | → [Anreise](#anreise) | |
-| 12.50 | [Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | | |
-| 14.40 | Abflug | via Paris · Ankunft Zürich 18.35 | |
+| 12.50 | [Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | am Flughafen · Boarding ca. 14.05 · Abflug 14.40 · AF1741 | |
+| 16.00 | Paris CDG | Umsteigen · Boarding ca. 16.50 · Abflug 17.20 · AF1814 | |
+| 18.35 | Zürich | Landung | |
 
 ## Anreise
 
@@ -123,5 +124,12 @@ permalink: /
 |---|---|
 | Temperatur | ca. 7–14 °C, windig, oft Schauer |
 | Dunkel ab | ca. 19.00 |
+
+## Flughafen
+
+| Regel | |
+|---|---|
+| Ankunft | eine Stunde vor Boarding am Flughafen |
+| Boarding | KLM und Air France beginnen Europa-Flüge etwa 35 Minuten vor Abflug, Gate schliesst 15 Minuten vorher |
 
 <sub>Bilder: Wikimedia Commons · Gracht © MarcusObal, CC BY-SA 3.0 · Prinsengracht © Cristalmoon 27, CC BY-SA 4.0 · Café 't Mandje, Eijlders, Hoppe, Schiller © Paul2, CC BY-SA 4.0 · Dampkring © The Drug Users Bible, CC BY 2.0</sub>
