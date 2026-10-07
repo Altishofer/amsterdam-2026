@@ -29,12 +29,11 @@ permalink: /
 | 19.30 | [Brouwerij Troost](https://www.google.com/maps/search/?api=1&query=Brouwerij+Troost+De+Pijp%2C+Cornelis+Troostplein+21%2C+Amsterdam) | Brauerei mit eigenem Bier · Cornelis Troostplein 21 · 20 Min. zu Fuss · bis 2.00 | |
 | 22.00 | [Café Eijlders](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam) | Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) · Korte Leidsedwarsstraat 47 · 20 Min. zu Fuss · bis 2.00 | |
 | 23.45 | [Flying Dutchmen Cocktails](https://www.google.com/maps/search/?api=1&query=Flying+Dutchmen+Cocktails%2C+Singel+460%2C+Amsterdam) | Cocktailbar im Grachtenhaus von 1662 · Singel 460 · 10 Min. zu Fuss · bis 4.00 | ohne |
-| 1.30 | [Café De Duivel](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+De+Duivel%2C+Reguliersdwarsstraat+87%2C+Amsterdam) | Hip-Hop-Bar · Reguliersdwarsstraat 87 · 5 Min. zu Fuss · bis 4.00 | |
 | danach | [FEBO](https://www.google.com/maps/search/?api=1&query=FEBO%2C+Leidsestraat+94%2C+Amsterdam) | Snackautomat: Kroketten, frikandel (Wurst) · Leidsestraat 94 · 5 Min. zu Fuss · zum Hotel 15 Min. · bis 4.00 | |
 
 ## Samstag, 10. Oktober
 
-<p class="kicker">Coffeeshops, Boot und Nacht</p>
+<p class="kicker">Coffeeshops, Rotlicht-Tour und Boot</p>
 
 <img class="hero" src="img/prinsengracht.jpg" alt="Prinsengracht mit Westerkerk">
 
@@ -45,13 +44,13 @@ permalink: /
 | 12.00 | [Katsu](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Katsu%2C+Eerste+van+der+Helststraat+70%2C+Amsterdam) | Coffeeshop · Eerste van der Helststraat 70, am Markt · Holz, Pflanzen, Quartierpublikum | |
 | 13.00 | [Boerejongens Centrum](https://www.google.com/maps/search/?api=1&query=Boerejongens+Centrum%2C+Utrechtsestraat+21%2C+Amsterdam) | Coffeeshop · Utrechtsestraat 21 · 20 Min. zu Fuss · Apothekenstil, Verkäufer in Weste | |
 | 14.00 | [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) | Coffeeshop · Handboogstraat 29 · 12 Min. zu Fuss · geschnitzte Holzdecke, Drehort von Ocean's Twelve | |
-| 15.00 | [Private Smoke Boat](https://www.google.com/maps/search/?api=1&query=Private+Smoke+Boat%2C+Oosterdokskade+8%2C+Amsterdam) | Privatboot mit Skipper · 2 Std. · Oosterdokskade 8 · 25 Min. zu Fuss, Abmarsch 14.35 | **[Buchen](https://smoke-friendly-boat.amsterdam/book/)** |
-| 17.35 | [Amnesia](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Amnesia%2C+Herengracht+133%2C+Amsterdam) | Coffeeshop · Herengracht 133 · 20 Min. zu Fuss · Lounge an der Gracht, ruhig | |
-| 18.30 | Hotel | 30 Min. zu Fuss · Reserve: Tram 2 oder 12 ab Dam → Van Baerlestraat | |
-| 19.30 | [Café Loetje](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Loetje%2C+Johannes+Vermeerstraat+52%2C+Amsterdam) | Abendessen · Steak mit Pommes · 5 Min. zu Fuss | **[Reservieren](https://www.loetje.nl/en/locations/)** |
-| 21.30 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · 20 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
-| 23.30 | [Café De Duivel](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+De+Duivel%2C+Reguliersdwarsstraat+87%2C+Amsterdam) | Hip-Hop-Bar · 2 Min. zu Fuss | |
-| 1.00 | [Shelter](https://www.google.com/maps/search/?api=1&query=Shelter%2C+Overhoeksplein+3%2C+Amsterdam) | Club im Keller des A'DAM Toren · Entasia b2b Freddi u. a. · 23.00–6.00 · 20 Min. zu Fuss zum Centraal, Gratisfähre Buiksloterweg, 5 Min. · zurück Uber | **[Tickets](https://web.fourvenues.com/en/shelter-amsterdam)** |
+| 14.50 | [Amnesia](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Amnesia%2C+Herengracht+133%2C+Amsterdam) | Coffeeshop · Herengracht 133 · 10 Min. zu Fuss · Lounge an der Gracht, ruhig | |
+| 15.55 | [Dam, Nationaldenkmal](https://www.google.com/maps/search/?api=1&query=Nationaal+Monument%2C+Dam%2C+Amsterdam) | Treffpunkt Red-Light-District-Tour · 8 Min. zu Fuss, Abmarsch 15.40 · Guide mit rotem Namensschild | gebucht |
+| 16.00 | Red-Light-District-Tour | Kleingruppe, Englisch · 1,5 Std. · Ende Nieuwmarkt · keine Fotos, kein Alkohol, nichts rauchen | |
+| 18.00 | [Private Smoke Boat](https://www.google.com/maps/search/?api=1&query=Private+Smoke+Boat%2C+Oosterdokskade+8%2C+Amsterdam) | Privatboot mit Skipper · 2 Std. · Oosterdokskade 8 · 10 Min. zu Fuss ab Nieuwmarkt · Grachten beleuchtet | **[Buchen](https://smoke-friendly-boat.amsterdam/book/)** |
+| 20.15 | [Loetje Centraal](https://www.google.com/maps/search/?api=1&query=Loetje+Centraal%2C+Stationsplein+10%2C+Amsterdam) | Abendessen · Steak mit Pommes · Stationsplein 10, im alten Zuid-Hollandsch Koffiehuis · 5 Min. zu Fuss · bis 22.30 | **[Reservieren](https://www.loetje.nl/en/locations/)** |
+| 22.00 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · 25 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
+| 23.45 | [Café Hoppe](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Hoppe%2C+Spui+18%2C+Amsterdam) | Braune Kneipe seit 1670 · Spui 18 · 5 Min. zu Fuss · jenever (Wacholderschnaps) · bis 2.00 · zum Hotel 20 Min. | |
 
 ## Sonntag, 11. Oktober
 
@@ -92,9 +91,10 @@ permalink: /
 | Coffeeshops | ab 18, Ausweis mitnehmen · max. 5 g pro Einkauf · kein Alkohol · drinnen kein Tabak |
 | Bezahlen | manche nur bar, manche nur Karte · beides mitnehmen |
 | Boot | Rauchen nur an Deck, nicht in der Kabine · Gras vorher im Coffeeshop kaufen |
+| Tour | Ticket auf dem Handy (GetYourGuide-App) · 5 Min. vor 16.00 am Denkmal · keine Kameras |
 | Strasse | Kiffen verboten im Rotlichtviertel, am Dam, Damrak und Nieuwmarkt |
 | Door 74 | nur mit Reservierung |
-| Unterwegs | alles zu Fuss, längste Strecke 30 Min. · Reserve Tram 2 und 12 (Museumplein ↔ Dam ↔ Centraal) |
+| Unterwegs | alles zu Fuss, längste Strecke 25 Min. · Reserve Tram 2 und 12 (Museumplein ↔ Dam ↔ Centraal) |
 
 ## Hotel
 
