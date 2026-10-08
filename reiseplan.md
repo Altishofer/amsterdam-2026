@@ -77,18 +77,13 @@ permalink: /
 | 16.00 | Paris CDG | Umsteigen · Boarding ca. 16.50 · Abflug 17.20 · AF1814 | |
 | 18.35 | Zürich | Landung | |
 
-## Anreise
-
-| Tickets | |
-|---|---|
-| Bus, Tram, Zug | Kontaktlose Bankkarte oder Handy beim Ein- und Aussteigen an den Leser halten · eine Karte pro Person |
-
 ## Gut zu wissen
 
 | Thema | |
 |---|---|
 | Coffeeshops | ab 18, Ausweis mitnehmen · max. 5 g pro Einkauf · kein Alkohol · drinnen kein Tabak |
 | Bezahlen | manche nur bar, manche nur Karte · beides mitnehmen |
+| Tickets Bus, Tram, Zug | Kontaktlose Bankkarte oder Handy beim Ein- und Aussteigen an den Leser halten · eine Karte pro Person |
 | Boot, spontan | [Smokeboat](https://www.google.com/maps/search/?api=1&query=Kloveniersburgwal+62%2C+Amsterdam): Raucherboot, 1 Std., täglich 13–21 ab Kloveniersburgwal 62 beim Nieuwmarkt oder Prins Hendrikkade 33a · [online buchen](https://fareharbor.com/embeds/book/smokeboat/items/calendar/) · drinnen kein Tabak |
 | Tour | Ticket auf dem Handy (GetYourGuide-App) · 5 Min. vor 16.00 am Denkmal · keine Kameras |
 | Strasse | Kiffen verboten im Rotlichtviertel, am Dam, Damrak und Nieuwmarkt |
@@ -103,19 +98,5 @@ permalink: /
 | Adresse | Van de Veldestraat 5, 1071 CW Amsterdam |
 | Check-in | Freitag, bis 23.30 |
 | Check-out | Sonntag, bis 11.00 |
-
-## Wetter
-
-| Wetter | Oktober |
-|---|---|
-| Temperatur | ca. 7–14 °C, windig, oft Schauer |
-| Dunkel ab | ca. 19.00 |
-
-## Flughafen
-
-| Regel | |
-|---|---|
-| Ankunft | eine Stunde vor Boarding am Flughafen |
-| Boarding | KLM und Air France beginnen Europa-Flüge etwa 35 Minuten vor Abflug, Gate schliesst 15 Minuten vorher |
 
 <sub>Bilder: Wikimedia Commons · Gracht © MarcusObal, CC BY-SA 3.0 · Prinsengracht © Cristalmoon 27, CC BY-SA 4.0 · Café 't Mandje, Eijlders, Hoppe, Schiller © Paul2, CC BY-SA 4.0 · Dampkring © The Drug Users Bible, CC BY 2.0</sub>
