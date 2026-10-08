@@ -25,8 +25,8 @@ permalink: /
 | 12.45 | [Flughafen Zürich](https://www.google.com/maps/search/?api=1&query=Flughafen+Z%C3%BCrich) | am Flughafen · Boarding ca. 13.45 · Abflug 14.20 · KL1922 | |
 | 15.55 | [Ankunft Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | Landung · Weg zum Hotel vor Ort schauen | |
 | 17.00 | [Hotel Van Gogh](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Museumplein · Check-in bis 23.30 | |
-| 17.45 | [Piet de Leeuw](https://www.google.com/maps/search/?api=1&query=Piet+de+Leeuw%2C+Noorderstraat+11%2C+Amsterdam) | Berühmtes Steakhaus · 15 Min. zu Fuss · bis 22.00 | **[Reservieren](https://www.pietdeleeuw.nl/)** |
-| 19.30 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Grosser, heller Coffeeshop · 10 Min. zu Fuss · bis 1.00 · falls voll: [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) (3 Min.) | |
+| 17.45 | [Café de Klos](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Klos%2C+Kerkstraat+41%2C+Amsterdam) | Berühmte Spareribs · 15 Min. zu Fuss · nur Walk-in, früh da sein · bis 23.00 · falls voll: [Piet de Leeuw](https://www.google.com/maps/search/?api=1&query=Piet+de+Leeuw%2C+Noorderstraat+11%2C+Amsterdam) (Steakhaus, 8 Min.) | **[Plan B reservieren](https://www.pietdeleeuw.nl/)** |
+| 19.30 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Grosser, heller Coffeeshop · 12 Min. zu Fuss · bis 1.00 · falls voll: [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) (3 Min.) | |
 | 20.45 | [Café Brecht](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Brecht%2C+Weteringschans+157%2C+Amsterdam) | Wohnzimmer-Café · 15 Min. zu Fuss · bis 2.00 · falls voll: [Café de Pieper](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Pieper%2C+Prinsengracht+424%2C+Amsterdam) (10 Min.) | |
 | ab 22.30 | Nach Laune | Karten unten · alle in gut 10 Min. | |
 
