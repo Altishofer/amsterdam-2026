@@ -72,19 +72,12 @@ permalink: /
 |---|---|---|---|
 | 9.30 | [Brasserie De Joffers](https://www.google.com/maps/search/?api=1&query=Brasserie+De+Joffers%2C+Willemsparkweg+163%2C+Amsterdam) | Frühstück · 8 Min. zu Fuss | **[Reservieren](https://brasseriedejoffers.nl/en/reservations/)** |
 | 11.00 | [Check-out](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Gepäck an der Rezeption lassen | |
-| 12.15 | [Bus 397 ab Museumplein](https://www.google.com/maps/search/?api=1&query=Bushalte+Museumplein%2C+Amsterdam) | → [Anreise](#anreise) | |
+| 12.15 | Richtung Schiphol | Weg vor Ort schauen, ca. 35 Min. | |
 | 12.50 | [Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | am Flughafen · Boarding ca. 14.05 · Abflug 14.40 · AF1741 | |
 | 16.00 | Paris CDG | Umsteigen · Boarding ca. 16.50 · Abflug 17.20 · AF1814 | |
 | 18.35 | Zürich | Landung | |
 
 ## Anreise
-
-**Sonntag · Hotel → Schiphol** · [Route](https://www.google.com/maps/dir/?api=1&origin=Van+de+Veldestraat+5%2C+Amsterdam&destination=Schiphol+Plaza&travelmode=transit)
-
-| Ab | Verbindung | Info |
-|---|---|---|
-| 12.15 | Bus 397 ab Museumplein | ca. 30 Min. |
-| Reserve | Tram 5 → Amsterdam Zuid, Zug → Schiphol | ca. 35 Min. |
 
 | Tickets | |
 |---|---|
@@ -101,7 +94,7 @@ permalink: /
 | Strasse | Kiffen verboten im Rotlichtviertel, am Dam, Damrak und Nieuwmarkt |
 | Door 74 | nur mit Reservierung |
 | Falls voll | Jeder Ort ohne Reservierung hat in der Spalte Info einen Ersatz in Gehdistanz · abends gilt der Kartenpool · bei kleinen Kneipen vorbeischauen, nie anstehen |
-| Unterwegs | alles zu Fuss, längste Strecke 25 Min. · Reserve Tram 2 und 12 (Museumplein ↔ Dam ↔ Centraal) |
+| Unterwegs | alles zu Fuss, längste Strecke 25 Min. · Reserve Tram 2 und 12 (Museumplein ↔ Dam ↔ Centraal) · Flughafen: Bus 397 ab Museumplein oder Zug ab Amsterdam Zuid, je ca. 35 Min. |
 
 ## Hotel
 
