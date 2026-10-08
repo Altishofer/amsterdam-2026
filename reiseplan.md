@@ -26,9 +26,9 @@ permalink: /
 | 15.55 | [Ankunft Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | Landung · Weg zum Hotel vor Ort schauen | |
 | 17.00 | [Hotel Van Gogh](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Museumplein · Check-in bis 23.30 | |
 | 17.45 | [Piet de Leeuw](https://www.google.com/maps/search/?api=1&query=Piet+de+Leeuw%2C+Noorderstraat+11%2C+Amsterdam) | Berühmtes Steakhaus · 15 Min. zu Fuss · bis 22.00 | **[Reservieren](https://www.pietdeleeuw.nl/)** |
-| 19.30 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Coffeeshop · am Rand der Negen Straatjes (neun kleine Läden-Gassen zwischen den Grachten) · 10 Min. zu Fuss · hell, viel Platz · bis 1.00 · falls voll: [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) (3 Min.) | |
-| 20.45 | [Café Brecht](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Brecht%2C+Weteringschans+157%2C+Amsterdam) | Wohnzimmer-Café · Sofas, Stehlampen, deutsche Biere · 15 Min. zu Fuss · bis 2.00 · falls voll: [Café de Pieper](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Pieper%2C+Prinsengracht+424%2C+Amsterdam) (10 Min.) | |
-| ab 22.30 | Nach Laune | eine der vier Karten unten, alle in gut 10 Min. | |
+| 19.30 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Grosser, heller Coffeeshop · 10 Min. zu Fuss · bis 1.00 · falls voll: [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) (3 Min.) | |
+| 20.45 | [Café Brecht](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Brecht%2C+Weteringschans+157%2C+Amsterdam) | Wohnzimmer-Café · 15 Min. zu Fuss · bis 2.00 · falls voll: [Café de Pieper](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+de+Pieper%2C+Prinsengracht+424%2C+Amsterdam) (10 Min.) | |
+| ab 22.30 | Nach Laune | Karten unten · alle in gut 10 Min. | |
 
 <div class="pool">
   <a class="card" href="https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Eijlders%2C+Korte+Leidsedwarsstraat+47%2C+Amsterdam"><img src="img/eijlders.jpg" alt="Café Eijlders"><div class="body"><h4>Café Eijlders</h4><p>Braune Kneipe (bruin café: holzgetäfeltes Stammlokal) seit 1940, Künstlertreff mit Bildern an den Wänden, zwei Räume.</p><p class="meta">10 Min. · bis 2.00</p></div></a>
@@ -45,17 +45,17 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 9.45 | [CT Coffee & Coconuts](https://www.google.com/maps/search/?api=1&query=CT+Coffee+%26+Coconuts%2C+Ceintuurbaan+282%2C+Amsterdam) | Brunch im alten Art-déco-Kino, drei Stockwerke · De Pijp · 15 Min. zu Fuss · Brunchkarte bis 13.00 · falls voll: [Bakers & Roasters](https://www.google.com/maps/search/?api=1&query=Bakers+%26+Roasters%2C+Eerste+Jacob+van+Campenstraat+54%2C+Amsterdam) (5 Min., online auf die Warteliste) | |
-| 11.15 | [Albert Cuypmarkt](https://www.google.com/maps/search/?api=1&query=Albert+Cuypmarkt%2C+Albert+Cuypstraat%2C+Amsterdam) | Strassenmarkt · 5 Min. zu Fuss · Stroopwafel, Hering, kibbeling (frittierter Fisch) | |
-| 12.00 | [Katsu](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Katsu%2C+Eerste+van+der+Helststraat+70%2C+Amsterdam) | Coffeeshop · am Markt · Holz, Pflanzen, Quartierpublikum | |
-| 13.00 | [Boerejongens Centrum](https://www.google.com/maps/search/?api=1&query=Boerejongens+Centrum%2C+Utrechtsestraat+21%2C+Amsterdam) | Coffeeshop · 20 Min. zu Fuss · Apothekenstil, Verkäufer in Weste | |
-| 14.00 | [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) | Coffeeshop · 12 Min. zu Fuss · geschnitzte Holzdecke, Drehort von Ocean's Twelve | |
-| 14.50 | [Amnesia](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Amnesia%2C+Herengracht+133%2C+Amsterdam) | Coffeeshop · 10 Min. zu Fuss · Lounge an der Gracht, ruhig | |
-| 15.55 | [Dam, Nationaldenkmal](https://www.google.com/maps/search/?api=1&query=Nationaal+Monument%2C+Dam%2C+Amsterdam) | Treffpunkt Red-Light-District-Tour · 8 Min. zu Fuss, Abmarsch 15.40 · Guide mit rotem Namensschild | gebucht |
-| 16.00 | Red-Light-District-Tour | Kleingruppe, Englisch · 1,5 Std. · Ende [Nieuwmarkt](https://www.google.com/maps/search/?api=1&query=Nieuwmarkt%2C+Amsterdam) · keine Fotos, kein Alkohol, nichts rauchen | |
-| 18.00 | [Loetje Centraal](https://www.google.com/maps/search/?api=1&query=Loetje+Centraal%2C+Stationsplein+10%2C+Amsterdam) | Abendessen · Steak mit Pommes · gegenüber Centraal im alten Zuid-Hollandsch Koffiehuis · 10 Min. zu Fuss ab Nieuwmarkt · bis 22.30 | **[Reservieren](https://www.loetje.nl/en/locations/)** |
-| 20.00 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy · schwarze Tür links vom Restaurant Shiva, klingeln · 25 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
-| ab 21.30 | Nach Laune | eine der vier Karten unten, drei in 5 Min., Welling auf dem Heimweg | |
+| 9.45 | [CT Coffee & Coconuts](https://www.google.com/maps/search/?api=1&query=CT+Coffee+%26+Coconuts%2C+Ceintuurbaan+282%2C+Amsterdam) | Brunch im alten Kino · 15 Min. zu Fuss · Brunch bis 13.00 · falls voll: [Bakers & Roasters](https://www.google.com/maps/search/?api=1&query=Bakers+%26+Roasters%2C+Eerste+Jacob+van+Campenstraat+54%2C+Amsterdam) (5 Min., Warteliste online) | |
+| 11.15 | [Albert Cuypmarkt](https://www.google.com/maps/search/?api=1&query=Albert+Cuypmarkt%2C+Albert+Cuypstraat%2C+Amsterdam) | Strassenmarkt · 5 Min. zu Fuss | |
+| 12.00 | [Katsu](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Katsu%2C+Eerste+van+der+Helststraat+70%2C+Amsterdam) | Coffeeshop mit Quartierpublikum · am Markt | |
+| 13.00 | [Boerejongens Centrum](https://www.google.com/maps/search/?api=1&query=Boerejongens+Centrum%2C+Utrechtsestraat+21%2C+Amsterdam) | Coffeeshop im Apothekenstil · 20 Min. zu Fuss | |
+| 14.00 | [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) | Klassischer Coffeeshop · 12 Min. zu Fuss | |
+| 14.50 | [Amnesia](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Amnesia%2C+Herengracht+133%2C+Amsterdam) | Ruhiger Coffeeshop an der Gracht · 10 Min. zu Fuss | |
+| 15.55 | [Dam, Nationaldenkmal](https://www.google.com/maps/search/?api=1&query=Nationaal+Monument%2C+Dam%2C+Amsterdam) | Treffpunkt Tour · 8 Min. zu Fuss, Abmarsch 15.40 · Guide mit rotem Namensschild | gebucht |
+| 16.00 | Red-Light-District-Tour | Kleingruppe · 1,5 Std. · Ende [Nieuwmarkt](https://www.google.com/maps/search/?api=1&query=Nieuwmarkt%2C+Amsterdam) · keine Fotos, kein Alkohol, kein Gras | |
+| 18.00 | [Loetje Centraal](https://www.google.com/maps/search/?api=1&query=Loetje+Centraal%2C+Stationsplein+10%2C+Amsterdam) | Berühmtes Steak · 10 Min. zu Fuss · bis 22.30 | **[Reservieren](https://www.loetje.nl/en/locations/)** |
+| 20.00 | [Door 74](https://www.google.com/maps/search/?api=1&query=Door+74%2C+Reguliersdwarsstraat+74%2C+Amsterdam) | Speakeasy, klingeln · 25 Min. zu Fuss | **[Reservieren](https://www.finddoor74.com/)** |
+| ab 21.30 | Nach Laune | Karten unten · drei in 5 Min., Welling auf dem Heimweg | |
 
 <div class="pool">
   <a class="card" href="https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Welling%2C+Jan+Willem+Brouwersstraat+32%2C+Amsterdam"><div class="noimg">Café Welling</div><div class="body"><h4>Café Welling</h4><p>Auf dem Heimweg: Musikerkneipe hinter dem Concertgebouw, ruhig, drei Minuten vom Hotel.</p><p class="meta">25 Min. · bis 2.00 · zum Hotel 3 Min.</p></div></a>
