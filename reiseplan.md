@@ -77,4 +77,15 @@ permalink: /
 | Falls voll | Jeder Ort ohne Reservierung hat in der Spalte Info einen Ersatz in Gehdistanz · abends vor Ort schauen · bei kleinen Kneipen vorbeischauen, nie anstehen |
 | Unterwegs | alles zu Fuss, längste Strecke 25 Min. · Reserve Tram 2 und 12 (Museumplein ↔ Dam ↔ Centraal) · Flughafen: Bus 397 ab Museumplein oder Zug ab Amsterdam Zuid, je ca. 35 Min. |
 
+## Packliste
+
+| Ein kleiner Bag | |
+|---|---|
+| Papiere | Pass oder ID, für alle Bars und Coffeeshops |
+| Geld | Physische Euro · Revolut laden |
+| Bad | Zahnbürste, Zahnpasta, Wachs |
+| Technik | Ladegerät · Kopfhörer |
+| Kleider | 2 Shirts · warmer Pullover · Regenjacke |
+| Apotheke | Ibuprofen |
+
 <sub>Bilder: Wikimedia Commons · Gracht © MarcusObal, CC BY-SA 3.0 · Prinsengracht © Cristalmoon 27, CC BY-SA 4.0 · Café 't Mandje © Paul2, CC BY-SA 4.0</sub>
