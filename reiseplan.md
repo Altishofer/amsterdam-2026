@@ -12,7 +12,7 @@ permalink: /
   </div>
 </div>
 
-<p class="tagline">Grachten · Kneipen · Coffeeshops</p>
+<p class="tagline">Essen · Kneipen · Coffeeshops</p>
 
 ## Freitag, 9. Oktober
 
