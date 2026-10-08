@@ -23,7 +23,7 @@ permalink: /
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
 | 12.45 | [Flughafen Zürich](https://www.google.com/maps/search/?api=1&query=Flughafen+Z%C3%BCrich) | am Flughafen · Boarding ca. 13.45 · Abflug 14.20 · KL1922 | |
-| 15.55 | [Ankunft Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | Landung · Bus 397 → [Anreise](#anreise) | |
+| 15.55 | [Ankunft Schiphol](https://www.google.com/maps/search/?api=1&query=Schiphol+Plaza%2C+Amsterdam) | Landung · Weg zum Hotel vor Ort schauen | |
 | 17.00 | [Hotel Van Gogh](https://www.google.com/maps/search/?api=1&query=Hotel+Van+Gogh%2C+Van+de+Veldestraat+5%2C+Amsterdam) | Museumplein · Check-in bis 23.30 | |
 | 17.45 | [Piet de Leeuw](https://www.google.com/maps/search/?api=1&query=Piet+de+Leeuw%2C+Noorderstraat+11%2C+Amsterdam) | Berühmtes Steakhaus · 15 Min. zu Fuss · bis 22.00 | **[Reservieren](https://www.pietdeleeuw.nl/)** |
 | 19.30 | [Kadinsky](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Kadinsky%2C+Rosmarijnsteeg+9%2C+Amsterdam) | Coffeeshop · am Rand der Negen Straatjes (neun kleine Läden-Gassen zwischen den Grachten) · 10 Min. zu Fuss · hell, viel Platz · bis 1.00 · falls voll: [Dampkring](https://www.google.com/maps/search/?api=1&query=Coffeeshop+Dampkring%2C+Handboogstraat+29%2C+Amsterdam) (3 Min.) | |
@@ -78,13 +78,6 @@ permalink: /
 | 18.35 | Zürich | Landung | |
 
 ## Anreise
-
-**Freitag · Schiphol → Hotel** · [Route](https://www.google.com/maps/dir/?api=1&origin=Schiphol+Plaza&destination=Van+de+Veldestraat+5%2C+Amsterdam&travelmode=transit)
-
-| Ab | Verbindung | Info |
-|---|---|---|
-| ca. 16.20 | Bus 397 → Museumplein | Schiphol Plaza, Steig B17 · ca. 30 Min. · alle 8–15 Min. |
-| ca. 16.50 | zu Fuss → Hotel | 5 Min. |
 
 **Sonntag · Hotel → Schiphol** · [Route](https://www.google.com/maps/dir/?api=1&origin=Van+de+Veldestraat+5%2C+Amsterdam&destination=Schiphol+Plaza&travelmode=transit)
 
